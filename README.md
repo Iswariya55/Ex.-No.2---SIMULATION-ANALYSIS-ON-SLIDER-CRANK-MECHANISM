@@ -48,8 +48,8 @@
 ![image](https://github.com/user-attachments/assets/71e2953a-cd5a-4012-bbb2-8d11b68e2f4b)
 
 
-### Name: GAUTHAM KRISHNA S   
-### Register Number: 212223240036
+### Name: ISWARIYA R   
+### Register Number: 212224220039
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
